@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main(List<String> args) {
   print(
-    "Program to print DIVISORS OF A NUMBER:",
+    "================== Program to print DIVISORS OF A NUMBER =================",
   );
   stdout.write(
     "Enter a number: ",
